@@ -30,4 +30,3 @@ cacheSolve <- function(x, ...){
   x$setInvMat(invMat)
   invMat
 }
-
